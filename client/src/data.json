@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "tilte": "product 1",
+        "imageUrl": "../public/images/placeholder-image.png",
+        "description": "This is product 1",
+        "price": "$",
+        "sizes": ["S", "M", "L"]
+    },
+    {
+        "id": "2",
+        "tilte": "product 2",
+        "imageUrl": "../public/images/placeholder-image.png",
+        "description": "This is product 2",
+        "price": "$",
+        "sizes": ["S", "M", "L"]
+    },
+    {
+        "id": "3",
+        "tilte": "product 3",
+        "imageUrl": "../public/images/placeholder-image.png",
+        "description": "This is product 3",
+        "price": "$",
+        "sizes": ["S", "M", "L"]
+    }
+]

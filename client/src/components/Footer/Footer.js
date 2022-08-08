@@ -1,10 +1,11 @@
 import React from 'react';
-import "../../css/Footer/Footer.css"
+import "../../css/Footer/Footer.css";
+import { words } from './../../words';
 
 function Footer() {
     return ( 
         <footer>
-            &copy; Copyright Qatr El-Nada Souka 2022
+            {words.footerTitle}
         </footer>
      );
 }
